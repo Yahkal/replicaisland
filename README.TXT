@@ -1,7 +1,7 @@
 Replica Island
 A side scrolling video game for Android.
 
-Authors: Chris Pruett and Genki Mine
+Authors: Yahkal Fisher
 
 This code and artwork is released under the Apache 2.0 license.  See COPYING for details.
 
@@ -39,8 +39,4 @@ src/com/replica/replicaisland/BaseObject.java and ObjectManager.java: These are 
 
 ABOUT THE AUTHORS
 
-Chris Pruett wrote code, dialog, made sounds, and defined the core game design.
-Genki Mine made all of the art, most of the levels layouts, all of the character designs, most of the sound, and also contributed to the game design.
-Tom Moss got the project up and running and then sat back and let us make it cool.
-
-Special thanks to Jason Chen for awesome rah-rah cheerleading support, Casey Richardson for excellent play testing and design feedback, Tim Mansfield for dialog edits, all 1300 users who participated in beta testing, and to the Android team for continued support.
+Yahkal Fisher is an android developer with experience of about 5 years as of 3/25/18, And will continue to develop for the android platform.
