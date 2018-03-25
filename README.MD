@@ -1,4 +1,4 @@
-**Replica Island**
+****Replica Island****
 A side scrolling video game for Android.
 
 **Authors: Yahkal Fisher**
