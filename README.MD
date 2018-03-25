@@ -1,15 +1,16 @@
-****Replica Island****
+# Replica Island****
+
 A side scrolling video game for Android.
 
-**Authors: Yahkal Fisher**
+## Authors: Yahkal Fisher
 
 This code and artwork is released under the Apache 2.0 license.  See COPYING for details.
 
-**ABOUT REPLICA ISLAND**
+## ABOUT REPLICA ISLAND
 
 Replica Island is a side-scrolling platformer for Android devices.  It stars the Android robot as its protagonist as he embarks on a dangerous mission to find a mysterious power source.  This is a complete game: all art, dialog, level layouts, and other data are included along with the code.
 
-**ABOUT THE SOURCE**
+## ABOUT THE SOURCE
 
 The code is structured into several Activities for the main menu, level select screen, dialog window, and main game.  Most of the code in this project is related to src/com/replicaisland/AndouKun.java, which implements the core game Activity ("AndouKun" was the code name for this project and you can find references to it all over the code).
 
@@ -25,7 +26,7 @@ MainLoop.java is the head of the game graph that describes the Replica Island ru
 
 The last step in the GameThread is the rendering step.  Rendering does not occur in the game thread.  Instead, render commands are queued up by the game thread and then handed to a separate render thread at a synchronization point.  The render thread is mostly implemented in GameRenderer.java, which is run by GLSurfaceView.java.
 
-**KEY FILES**
+## KEY FILES
 
 Here are some interesting files in this project.
 
@@ -37,6 +38,6 @@ res/xml/leveltree.xml: This file describes the non-linear level progression thro
 
 src/com/replica/replicaisland/BaseObject.java and ObjectManager.java: These are the core nodes of the game graph.
 
-**ABOUT THE AUTHORS**
+## ABOUT THE AUTHORS
 
 Yahkal Fisher is an android developer with experience of about 5 years as of 3/25/18, And will continue to develop for the android platform.
